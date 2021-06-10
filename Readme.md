@@ -9,9 +9,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/jhilde7/GoFibonacciAPI/issues]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/jacob-hildebrand)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -171,8 +171,8 @@ Project Link: [https://github.com/jhilde7/GoFibonacciAPI](https://github.com/jhi
 [stars-shield]: https://img.shields.io/github/stars/jhilde7/repo.svg?style=for-the-badge
 [stars-url]: https://github.com/jhilde7/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jhilde7/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/jhilde7/repo/issues
+[issues-url]: https://github.com/jhilde7/GoFibonacciAPI/issues
 [license-shield]: https://img.shields.io/github/license/jhilde7/repo.svg?style=for-the-badge
 [license-url]: https://github.com/jhilde7/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jhilde7
+[linkedin-url]: https://www.linkedin.com/in/jacob-hildebrand
