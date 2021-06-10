@@ -11,7 +11,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][https://github.com/jhilde7/GoFibonacciAPI/issues]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jacob-hildebrand]
+[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/jacob-hildebrand)
 
 
 
