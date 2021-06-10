@@ -66,26 +66,6 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`jhilde7`, `GoFibonacciAPI`, `j.hildebrandx@gmail.com`, `GoFibonacciAPI`, `RESTful API built with go that returns a fibonacci sequence and records sequences in postgres DB`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
